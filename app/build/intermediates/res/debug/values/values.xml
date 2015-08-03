@@ -200,7 +200,14 @@
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">Music Player</string>
+    <string name="artist_name">Name of the Artist</string>
+    <string name="forward">>></string>
     <string name="hello_world">Hello world! This is a sample app</string>
+    <string name="image_desc">Music Description</string>
+    <string name="pause">||</string>
+    <string name="play">></string>
+    <string name="rewind">&lt;&lt;</string>
+    <string name="song_name">Name of the Song</string>
     <!-- From: file:/Users/smutneja03/AndroidStudioProjects/MusicPlayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>

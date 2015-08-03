@@ -9,13 +9,6 @@
         <dex dex="/Users/smutneja03/AndroidStudioProjects/MusicPlayer/app/build/intermediates/pre-dexed/debug/classes-be26474a7855d88a80cfe9e38f6493ef1a45274b.jar" />
     </item>
     <item
-        jar="/Users/smutneja03/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/smutneja03/AndroidStudioProjects/MusicPlayer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a3d7935ee97ee1e5cc6e222d9f15cdae36141389.jar" />
-    </item>
-    <item
         jar="/Users/smutneja03/AndroidStudioProjects/MusicPlayer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -28,6 +21,13 @@
         revision="22.0.1"
         sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
         <dex dex="/Users/smutneja03/AndroidStudioProjects/MusicPlayer/app/build/intermediates/pre-dexed/debug/classes-82ee37bc66da4010be4d18a2c03331a337ec3826.jar" />
+    </item>
+    <item
+        jar="/Users/smutneja03/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/smutneja03/AndroidStudioProjects/MusicPlayer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a3d7935ee97ee1e5cc6e222d9f15cdae36141389.jar" />
     </item>
 
 </items>
